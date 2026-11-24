@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Simple 8bit adder
+"Simple 8bit adder"
 
 ## How to test
 
-8bit input A, 8bit output SUM
+"8bit input A, 8bit output SUM"
 
 ## External hardware
 
-LEDs
+"LEDs"
